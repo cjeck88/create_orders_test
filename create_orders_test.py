@@ -1,8 +1,9 @@
+# Евгений Твердохлебов, 29-я когорта - Финальный проект. Инженер по тестированию расширенный.
 import requests
 import pytest
 from configuration import URL_SERVICE, CREATE_ORDERS_PATH, USERS_KITS_PATH
 from data import user_orders, headers
-# Евгений Твердохлебов, 29-я когорта - Финальный проект. Инженер по тестированию расширенный.
+
 def test_create_and_get_order():
     # Создание заказа
     create_response = requests.post(URL_SERVICE + CREATE_ORDERS_PATH,
