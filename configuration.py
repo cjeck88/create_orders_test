@@ -1,7 +1,7 @@
 # URL_SERVICE хранит базовый URL веб-сервиса, который используется для доступа к API или другим ресурсам.
 # Значение должно быть скопировано из настроек или документации сервиса, к которому предоставляется доступ.
 # Пример значения: "https://api.example.com"
-URL_SERVICE = 'https://e3ec114d-aa23-4553-90f9-17c7ef17e77e.serverhub.praktikum-services.ru/'
+URL_SERVICE = 'https://3c13fa97-da09-4589-a60f-d3808236faa8.serverhub.praktikum-services.ru/'
 
 
 # Путь для cоздание заказа
